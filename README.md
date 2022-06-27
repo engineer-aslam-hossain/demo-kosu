@@ -29,6 +29,12 @@ Resemblance is the only common ground.  KŌSU has a far more rich mechanism with
 
 ---
 
+## Desktop Demo
+
+This demo is best viewed on a desktop.
+
+---
+
 # Follow Us
 
 - [KŌSU](https:/www.kosu.space)
