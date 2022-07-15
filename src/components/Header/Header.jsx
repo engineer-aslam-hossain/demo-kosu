@@ -3,7 +3,6 @@ import Card from "./Card/Card";
 
 const Header = () => {
   return (
-    // <HeaderContainer>
     <ImageBoxContainer>
       <ImageContainer
         src="images/header/header_gradient1.svg"
@@ -12,7 +11,6 @@ const Header = () => {
       />
       <Card />
     </ImageBoxContainer>
-    // </HeaderContainer>
   );
 };
 

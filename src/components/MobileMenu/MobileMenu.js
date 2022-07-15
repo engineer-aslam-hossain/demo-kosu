@@ -25,7 +25,6 @@ export default function MobileMenu() {
   ))(({ theme }) => ({
     [`& .${tooltipClasses.tooltip}`]: {
       backgroundColor: "transparent",
-      // minWidth: 250,
       color: theme.palette.grey[900],
       borderRadius: 0,
       padding: 0,

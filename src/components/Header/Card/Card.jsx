@@ -6,7 +6,7 @@ const Card = () => {
       <TitleContainer>Create, Learn, Earn!</TitleContainer>
       <TextContainer>
         Join a community of Creators & Learners to &lt;build/&gt; the future of
-        Web3 ❤️.
+        Web3 ❤️
       </TextContainer>
     </CardContainer>
   );
